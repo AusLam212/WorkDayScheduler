@@ -1,0 +1,26 @@
+/* Header Styling */
+
+header {
+    text-align: center;
+    margin: 20px;
+}
+
+hr {
+    background-color: black;
+    height: 10px;
+    width: 100%;
+}
+
+
+/* Main Content Styling */
+
+textarea {
+    width: 100%;
+    margin: 0px;
+}
+
+button {
+    height: 100%;
+    width: 100%;
+    margin-left: 0px;
+}
